@@ -1,0 +1,11 @@
+﻿namespace DesigenPattern.CQRS.CQRSPattern.Results
+{
+    public class GetProductUpdateQueryResult
+    {
+        public int ID { get; set; }
+        public string Name { get; set; }
+        public string Stock { get; set; }
+        public decimal Price { get; set; }
+        public string Description { get; set; }
+    }
+}
