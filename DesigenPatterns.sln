@@ -15,6 +15,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TemplateMethodDesigenPatter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesigenPattern.TemplateMethod", "TemplateMethodDesigenPattern\DesigenPattern.TemplateMethod\DesigenPattern.TemplateMethod.csproj", "{FD4FC2EA-16BF-4D21-87A7-36821E736AE4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ObserverDesigenPattern", "ObserverDesigenPattern", "{4FB2A3D1-ADE5-4213-8EDE-6B410DFB477F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesigenpPattern.Observer", "ObserverDesigenPattern\DesigenpPattern.Observer\DesigenpPattern.Observer.csproj", "{1ADAA1C8-D255-4B8F-A93E-C956127B96F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,10 @@ Global
 		{FD4FC2EA-16BF-4D21-87A7-36821E736AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD4FC2EA-16BF-4D21-87A7-36821E736AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD4FC2EA-16BF-4D21-87A7-36821E736AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ADAA1C8-D255-4B8F-A93E-C956127B96F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ADAA1C8-D255-4B8F-A93E-C956127B96F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ADAA1C8-D255-4B8F-A93E-C956127B96F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ADAA1C8-D255-4B8F-A93E-C956127B96F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +49,7 @@ Global
 		{707229D1-294D-40A6-A3F0-E08CCB9ECB3D} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{823D8E7C-A8E2-4FEC-8326-4C97785E5E18} = {83856761-4618-491E-8F4D-F834DE6E6B5A}
 		{FD4FC2EA-16BF-4D21-87A7-36821E736AE4} = {0152309E-80BE-4526-B471-6A31B0B15747}
+		{1ADAA1C8-D255-4B8F-A93E-C956127B96F4} = {4FB2A3D1-ADE5-4213-8EDE-6B410DFB477F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BF576907-8E92-45EE-925F-C685C76076C6}
